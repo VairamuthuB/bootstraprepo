@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+h2{
+    font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+#con{
+    background-image: url("https://imgcld.yatra.com/ytimages/image/upload/v1396178599/International%20Holidays/Maldives/Maldives/shutterstock_76399303.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: 500;
+}
+
+h1{
+    font-family: "Playwrite GB S", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+    color: white;
+    text-align: center;
+    font-size: 90px;
+    font-weight: 900;
+}
+.para{
+    text-align: center;
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.h{
+    text-align: center;
+    color: white;
+}
+.b{
+    margin-left: 610px;
+}
+.card1{
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: blue;
+    margin-left: 80px;
+}
+p{
+    color: black;
+}
+.nav1{
+    margin-left: 80px;
+    color: white;
+}
+.nav2{
+    margin-left: 80px;
+    color: white;
+
+}
+.num1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#con3{
+    background-image: url("https://www.holidify.com/images/cmsuploads/compressed/shutterstock577561426_20230523144746.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 1200px;
+    
+}
+.main1{
+   padding: 40px;
+}
+.headingDiv{
+    padding: 100px;
+}
+.heading{
+    font-size: 50px;
+}
+.heading2{
+    font-size: 30px;
+}
+.c{
+    text-align: center;
+    margin-top: -80px;
+}
