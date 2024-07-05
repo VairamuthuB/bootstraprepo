@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://image5.sixthtone.com/image/5/70/387.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: o.7;
+}
+.img{
+    display: flex;
+    justify-content: space-between;  
+}
+.img1{
+   height: 200px;
+   width: 200px;
+}
+.navbar1{
+    list-style-type:none;
+}
+li{
+    color: black;
+}
+.card{
+    background-color: rgba(32, 31, 31, 0.5);   
+}
+.card-body{
+    font-size: larger;
+    font-weight: bolder;
+    z-index: 3;
+}
+.hey{
+    background-color: rgb(158, 156, 156);
+    color: white;
+}
+.head{
+    margin-left: 50px;
+}
+.center1{
+    text-align: center;
+    color: black;
+}
+.center2{
+/* padding: 50px; */
+margin-bottom: 70px;
+}
+.flex1{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    margin-bottom: 50px;
+}
+
