@@ -1,0 +1,30 @@
+/* .image{
+    height: 300px;
+    width: 300px;
+    opacity: 2;
+
+} */
+ .img{
+    background-image: url('https://as1.ftcdn.net/v2/jpg/07/26/65/90/1000_F_726659088_uiT5iJX79jQYcuKAmTvaO4RuMqEaDYxC.jpg');
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    opacity: 0.7;
+
+}
+.navbar{
+    font-size: larger;
+    font-weight: bolder;
+    
+    opacity: 2;
+}
+a{
+    color: black;
+}
+.image1{
+    position: absolute;
+  left: 0px;
+  opacity: 0.7;
+  z-index: -1;
+
+}
