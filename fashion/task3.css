@@ -1,0 +1,31 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/11762.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+}
+.navbar1{
+    background-color: black;
+    text-align: center;
+}
+.display{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.card{
+    background-color: rgba(32, 31, 31, 0.5);
+}
+h1{
+     color: skyblue ;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
