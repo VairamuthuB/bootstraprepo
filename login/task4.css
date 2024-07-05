@@ -1,0 +1,25 @@
+body{
+    background-image:linear-gradient( to right, red,yellow) ;
+}
+.main{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+.img{
+    height: 150px;
+    width: 150px;
+}
+.contact{
+    opacity: 0.7;
+}
+button{
+    width: 200px;
+    color: white;
+    background-color: brown;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
