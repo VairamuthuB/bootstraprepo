@@ -1,0 +1,76 @@
+body{
+     background-image: url("https://wallpapers.com/images/hd/balloons-background-77x4th3kqo6c5tka.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+h1{
+  color: white;
+  padding: 25px;
+
+}
+h5{
+  color: white;
+  padding: 25px;
+}
+h2{
+  color: orange;
+
+}
+h4{
+  color: orange;
+}
+.img{
+    position: absolute;
+  left: 0px;
+  opacity: 0.7;
+  z-index: -1;
+  height: 500px;
+  width: 300px;
+  image-rendering: initial;
+}
+.img2{
+  height: 30px;
+  width: 30px;
+}
+.main{
+  display: flex;
+  margin-top: 100px;
+
+}
+.div1{
+  background-image: url('https://w0.peakpx.com/wallpaper/620/1009/HD-wallpaper-hot-air-balloon-hot-air-balloon-ocean-vehicle-parachute.jpg');
+  /* background-image: url('C:\Users\LENOVO\Pictures\baloon.jpg'); */
+  height: 400px;
+  width: 400px;
+ margin-left: 200px;
+}
+.div2{
+  background-color: white;
+  height: 400px;
+  width: 400px;
+  text-align: center;
+  
+}
+.display{
+  display: flex;
+  padding: 20px;
+}
+.login{
+   margin-left: -220px;
+}
+input{
+  width: 300px;
+}
+a{
+  margin-left: -100px;
+  text-decoration: none;
+  color: black;
+}
+button{
+  background-color: rgb(105, 28, 105);
+  margin-right: -100px ;
+}
+.space{
+  justify-content: space-between;
+}
