@@ -1,0 +1,46 @@
+.navbar1{
+    background-color: rgb(69, 99, 110);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    margin-left: 25px;
+}
+.logo{
+    margin-right: 25px;
+}
+body{
+    background-color: rgb(21, 67, 85);
+}
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.nav{
+    color: white;
+}
+.images{
+    display: flex;
+    justify-content: space-evenly;
+}
+.div1{
+    color: white;
+    width: 500px;
+}
+.cardd{
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(21, 67, 85);   
+    text-align: center;
+}
+.about{
+    text-align: center;
+    color: white;
+    font-size:medium;
+}
+.img1{
+    height: 300px;
+    
+}
